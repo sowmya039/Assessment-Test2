@@ -1,0 +1,28 @@
+{
+	"extends": "react-app",
+	"rules": {
+		"eqeqeq": "error",
+		"no-script-url": "error",
+		"no-useless-return": "error",
+		"no-unused-labels": "error",
+		"yoda": "error",
+		"jsx-quotes": "error",
+		"no-lonely-if": "error",
+		"no-unneeded-ternary": "error",
+		"arrow-body-style": ["error", "always"],
+		"arrow-parens": "error",
+		"no-useless-rename": "error",
+		"no-var": "error",
+		"prefer-const": "error",
+		"prefer-template": "error",
+		"prefer-spread": "error",
+		"no-unused-vars": "error",
+		"no-template-curly-in-string": "error",
+		"no-underscore-dangle": "off",
+		"semi": ["error", "always"],
+		"quotes": ["error", "single"],
+		"react/prop-types": [0],
+		"eol-last": [0],
+		"react/display-name": [0]
+	}
+}
